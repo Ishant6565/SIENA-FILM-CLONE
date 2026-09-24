@@ -1,0 +1,13 @@
+{
+  "site": "https://siena.film/",
+  "mode": "entire",
+  "startedAt": "2026-09-24T16:40:37.739Z",
+  "completedAt": "2026-09-24T16:47:39.291Z",
+  "pagesDiscovered": 15,
+  "pagesDownloaded": 15,
+  "pagesSkipped": 0,
+  "assetsDownloaded": 309,
+  "assetsMissing": 11,
+  "bytes": 22071577,
+  "errors": 33
+}
